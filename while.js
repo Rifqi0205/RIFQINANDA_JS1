@@ -1,5 +1,5 @@
-let angka = 1;
-while (angka <= 5) {
+let angka = 5;
+while (angka <= 4) {
   console.log("Angka: " + angka);
   angka++;
 }
